@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, good morning!
 
 - 🧮 All about Computer Algebra Systems
 - 🦀 Rust is the language
